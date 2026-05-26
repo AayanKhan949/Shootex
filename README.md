@@ -23,4 +23,22 @@ Shootex was made so that the teens can spend an enjoying and productive free tim
 <img width="976" height="765" alt="ShootexSchematics2" src="https://github.com/user-attachments/assets/8f2adf23-dacf-46d0-89d8-f678ba9830d7" />
 
 
-# How to Replicate it?
+# How to Build it?
+To replicate Shootex you need to follow the below mentioned steps::
+
+1) Firstly you need to 3d print the designs from the 'CAD' Folder...
+2) Next you need the grab order the components listed in the BOM..
+3) After you recieve the components then you need to wire them up as per given in the schematics..
+4) After wiring up the circuit..you need to upload the code given in Source Code/Shootex.ino in the Arduino.
+5) Next you need to test the whole circuit using a laser and make sure everything works perfectly..
+6) Then you need the assemble everything as per the CAD...
+7) Hurrahh!!You finally replicated Shootex successfully!
+
+# How to use it?
+To use Shootex you need the follow the below mentioned step:
+
+1) Power on the system.
+2)Wait till the system is ready.
+3) After the system is ready...Press the start button.
+4) Yayyy!!Now you are ready to play..
+
