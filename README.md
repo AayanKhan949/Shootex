@@ -26,19 +26,30 @@ Shootex was made so that the teens can spend an enjoying and productive free tim
 # How to Build it?
 To replicate Shootex you need to follow the below mentioned steps::
 
-1) Firstly you need to 3d print the designs from the 'CAD' Folder...
-2) Next you need the grab order the components listed in the BOM..
-3) After you recieve the components then you need to wire them up as per given in the schematics..
+1) Firstly you need to 3d print the designs from the CAD/Shootex Arena Folder...
+2) Next you need the grab order the components listed in the BOM/Shootex_BOM.csv..
+3) After you recieve the components then you need to wire them up as per given in the schematics in Circuit/Shootex_arena..
 4) After wiring up the circuit..you need to upload the code given in Source Code/Shootex.ino in the Arduino.
 5) Next you need to test the whole circuit using a laser and make sure everything works perfectly..
 6) Then you need the assemble everything as per the CAD...
-7) Hurrahh!!You finally replicated Shootex successfully!
+7) Hurrahh!!You finally replicated Shootex Arena successfully!
+
+Up next you need to build the Shootex Gun:
+1) You need to 3d Print the designs from the CAD/Shootex Gun folder.../
+2) Next you needto get the components listed in the BOM/Shootex_gun.csv..
+3) After you recieve ythe components you need to wire up the whole circuit as per the circuit in Circuit/Shootex_gun..
+4) Next you need to check if the circuit is working by aiming the laser in darkness and if the light is visible then it's working.
+5) Then you need to assemble everything the in 3d printed body..
+6) Hurrah!You finally Assembled Shootex Gun succesfully!
+
+Now you have complete Shootex game ready..
 
 # How to use it?
 To use Shootex you need the follow the below mentioned step:
 
-1) Power on the system.
-2) Wait till the system is ready.
-3) After the system is ready...press the start button.
-4) Yayyy!!Now you are ready to play..
+1) Power on the Arena system.
+2) Wait till the Arena system is ready.
+3) Turn on the Shootex gun and check if the laser light is visible..
+4) If the gun is working properly and the Arena system is ready..press the start button.
+5) Yayyy!!Now you are ready to play..
 
