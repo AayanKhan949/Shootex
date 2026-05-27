@@ -5,7 +5,7 @@
 Shootex is a Real life Laser shooting target game with available targets and points system that really increases your aim.
 
 # What it is?
-Basically SHootex is a real life Laser target shooting game in which you need to take aim on the targets and score points by hitting them with laser...
+Basically Shootex is a real life Laser target shooting game in which you need to take aim on the targets and score points by hitting them with laser...
 
 # How it works?
 Shootex works with majorly LDR, Servo and arduino...When the laser hits the LDR, it detects the laser and sends digital signals to arduino..then further Arduino analyses the signal and then rotates the servo which makes the system look like the target fell down, simontensly the Arduino also records a point scored (+1) and displays it in the LCD display..This system continues and makes the game interesting and attractive which is a catchy factor to any person..
