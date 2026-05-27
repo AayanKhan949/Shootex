@@ -38,7 +38,7 @@ To replicate Shootex you need to follow the below mentioned steps::
 To use Shootex you need the follow the below mentioned step:
 
 1) Power on the system.
-2)Wait till the system is ready.
-3) After the system is ready...Press the start button.
+2) Wait till the system is ready.
+3) After the system is ready...press the start button.
 4) Yayyy!!Now you are ready to play..
 
