@@ -14,7 +14,7 @@ Shootex works with majorly LDR, Servo and arduino...When the laser hits the LDR,
 Shootex was made so that the teens can spend an enjoying and productive free time rather than doom scrolling.. With Shootex the teens will geet attracted to the real life aiming and shooting rather than being attracted to mobile games... Shootex also doen't harm anyone and is safe to play as it doesn't consist of any involvement of real life bullets and completely operates with laser rays... Shootex can be played by people of all age groups as it is easy to use and also increases the aim of people and boosts the accuracy.
 
 # How it Will Look?
-<img width="870" height="694" alt="ShootexFullCAD-Photoroom" src="https://github.com/user-attachments/assets/d5c7e5dd-053b-472c-a7ca-9a537bab32d8" />
+<img width="960" height="729" alt="Shootex 1 overview" src="https://github.com/user-attachments/assets/bc433779-95b2-4001-b02b-3c1855de354a" />
 
 # Zine Page of Shootex:
 <img width="1410" height="2000" alt="Shootex Zine" src="https://github.com/user-attachments/assets/081d6ae9-dcd6-489b-8779-9e92911c9413" />
