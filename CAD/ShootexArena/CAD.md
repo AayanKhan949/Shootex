@@ -8,7 +8,7 @@
 **Note for reviewers : I, Aayan Khan, designer of SHOOTEX request the reviewers to co-operate with me as I had tried my best to demonstrate the project's CAD in the cleanest and polisted way possible by me with great efforts and thus request for co-operation. If any reviewer or mentor could help me fix this error then I can definetely assure the upload of the .f3d files in the repository. I have attached the Public Share link of all my CAD below in this README and for assurance that the CAD are designed by me you can cross-verify my Github username, TinkerCad username and Slack username, all of them declare my name to be "Aayan Khan".Still by the help of reviewer Aarav Kohli, he suggested to export the .stl files and convert it into .step files and I have done the same and uploaded them in CAD/.step. Thanks to sir Aarav Kohli sir for solving this issue.**
 
 
-**Mark : All the models in this file are downloaded into .stl files and converted into .step files and are uploaded CAD/ShootexArena/Converted-files/step-files.md as google drive link because directly uploading them in the repo was not possible due to their exceeding file size.
+**Mark : All the models in this file are downloaded into .stl files and converted into .step files and are uploaded CAD/ShootexArena/Converted-files/step-files.md as google drive link because directly uploading them in the repo was not possible due to their exceeding file size.**
 # CAD LINKS BELOW #
 
 **1) Shootex full with electronics** : https://www.tinkercad.com/things/6S9Sj06KUzo-shootex-2full-with-electronics
