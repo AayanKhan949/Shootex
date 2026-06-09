@@ -1,4 +1,4 @@
-<img width="2245" height="1587" alt="Shootex Header" src="https://github.com/user-attachments/assets/70ca467a-5acb-498f-915d-b6f2276d782c" />
+<img width="2245" height="1587" alt="Shootex Header2" src="https://github.com/user-attachments/assets/1173c7d8-196f-4e9d-b036-0cfebeda78ad" />
 
 
 # Shootex
@@ -15,8 +15,8 @@ Shootex was made so that the teens can spend an enjoying and productive free tim
 
 # How it Will Look?
 <img width="1073" height="778" alt="shootex 2 overview-Photoroom" src="https://github.com/user-attachments/assets/43d58b58-9e16-40ba-8f04-587f81402184" />
-# Zine Page of Shootex:
-<img width="1410" height="2000" alt="Shootex Zine" src="https://github.com/user-attachments/assets/081d6ae9-dcd6-489b-8779-9e92911c9413" />
+# Zine Page of Shootex
+<img width="1410" height="2000" alt="Shootex Zine2" src="https://github.com/user-attachments/assets/0b0bc1fe-de94-4382-b23b-6c00ad53cfeb" />
 
 # Circuit of Shootex :
 <img width="976" height="765" alt="ShootexSchematics2" src="https://github.com/user-attachments/assets/8f2adf23-dacf-46d0-89d8-f678ba9830d7" />
