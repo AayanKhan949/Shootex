@@ -102,3 +102,8 @@
 
 *Overview*
 <img width="1287" height="635" alt="Shootex5 overview" src="https://github.com/user-attachments/assets/00990eb1-026b-483e-a0b6-5276e57b6520" />
+
+
+
+
+# All the other parts of Shootex arena got exported to fusion and the .f3d and .step files were obtaines. Refer CAD/ShootexArena/Fusion exported files 
