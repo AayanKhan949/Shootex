@@ -35,7 +35,7 @@ To replicate Shootex you need to follow the below mentioned steps::
 
 Up next you need to build the Shootex Gun:
 1) You need to 3d Print the designs from the CAD/Shootex Gun folder.../
-2) Next you needto get the components listed in the BOM/Shootex_gun.csv..
+2) Next you need to get the components listed in the BOM/Shootex_gun.csv..
 3) After you recieve ythe components you need to wire up the whole circuit as per the circuit in Circuit/Shootex_gun..
 4) Next you need to check if the circuit is working by aiming the laser in darkness and if the light is visible then it's working.
 5) Then you need to assemble everything the in 3d printed body..
