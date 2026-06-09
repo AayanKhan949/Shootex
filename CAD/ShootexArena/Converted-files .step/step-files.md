@@ -3,7 +3,7 @@
 
 # SHOOTEX ARENA .step CAD FILES
 
-*This readme consists of the .step files of the CAD of SHOOTEX. The CAD files are uploaded in google drive as iyt wasn't possible to upload that large files in the guthub repo directly*
+*This readme consists of the .step files of the CAD of SHOOTEX. The CAD files are uploaded in google drive as iyt wasn't possible to upload that large files in the github repo directly*
 
 *Google drive link of the .step CAD files of SHOOTEX*:https://drive.google.com/drive/folders/1LEq1XjwmR3tj3QBTQ9n734LQi5Wjn5oo?usp=sharing
 
