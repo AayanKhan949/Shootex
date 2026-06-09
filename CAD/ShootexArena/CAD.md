@@ -1,4 +1,4 @@
-# LEVITA CAD #
+# SHOOTEX CAD #
 
 *This README consists of the CAD files links of SHOOTEX as the CAD is not getting exported to Autodesk Fusion to get the .f3d file and when tried it shows a error called "DESIGN TOO COMPLEX". Thus I had no other option left and did this coz I got no help even after raising the issue in slack channels "fallout", "fallout-help", "hardware" and even in DM of some reviewers but that wasn't helpful or working.*
 
