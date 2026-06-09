@@ -43,6 +43,8 @@ Up next you need to build the Shootex Gun:
 
 Now you have complete Shootex game ready..
 
+**NOTE FOR REVIEWERS: PLEASE GO THROUGH THE CAD FOLDER CAREFULLY and read all the .md files for the better understanding of the project**
+
 # How to use it?
 To use Shootex you need the follow the below mentioned step:
 
@@ -52,3 +54,9 @@ To use Shootex you need the follow the below mentioned step:
 4) If the gun is working properly and the Arena system is ready..press the start button.
 5) Yayyy!!Now you are ready to play..
 
+
+*~With Love*
+
+*~Aayan Khan*
+
+*~A teen from India*
